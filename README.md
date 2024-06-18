@@ -15,7 +15,7 @@ No installation is required. Just ensure you have Python 3.x installed on your s
 
 ### Usage
 
-1. Place the `organize_files.py` script in the directory you want to organize.
+1. Place the `files_or.py` script in the directory you want to organize.
 2. Run the script using a terminal or command prompt.
 3. When prompted, enter the path to the directory you wish to organize.
 
